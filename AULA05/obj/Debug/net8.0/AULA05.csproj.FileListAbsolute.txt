@@ -1,0 +1,14 @@
+C:\Users\2024102060012\Documents\Aula05\AULA05\AULA05\bin\Debug\net8.0\AULA05.exe
+C:\Users\2024102060012\Documents\Aula05\AULA05\AULA05\bin\Debug\net8.0\AULA05.deps.json
+C:\Users\2024102060012\Documents\Aula05\AULA05\AULA05\bin\Debug\net8.0\AULA05.runtimeconfig.json
+C:\Users\2024102060012\Documents\Aula05\AULA05\AULA05\bin\Debug\net8.0\AULA05.dll
+C:\Users\2024102060012\Documents\Aula05\AULA05\AULA05\bin\Debug\net8.0\AULA05.pdb
+C:\Users\2024102060012\Documents\Aula05\AULA05\AULA05\obj\Debug\net8.0\AULA05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2024102060012\Documents\Aula05\AULA05\AULA05\obj\Debug\net8.0\AULA05.AssemblyInfoInputs.cache
+C:\Users\2024102060012\Documents\Aula05\AULA05\AULA05\obj\Debug\net8.0\AULA05.AssemblyInfo.cs
+C:\Users\2024102060012\Documents\Aula05\AULA05\AULA05\obj\Debug\net8.0\AULA05.csproj.CoreCompileInputs.cache
+C:\Users\2024102060012\Documents\Aula05\AULA05\AULA05\obj\Debug\net8.0\AULA05.dll
+C:\Users\2024102060012\Documents\Aula05\AULA05\AULA05\obj\Debug\net8.0\refint\AULA05.dll
+C:\Users\2024102060012\Documents\Aula05\AULA05\AULA05\obj\Debug\net8.0\AULA05.pdb
+C:\Users\2024102060012\Documents\Aula05\AULA05\AULA05\obj\Debug\net8.0\AULA05.genruntimeconfig.cache
+C:\Users\2024102060012\Documents\Aula05\AULA05\AULA05\obj\Debug\net8.0\ref\AULA05.dll

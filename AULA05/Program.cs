@@ -13,4 +13,5 @@ try
 
 //Carro c2 = new Carro(1,"Ford","ForD k);
 
-    
+// Vincular repositorio local com o remote(main)
+//git init  #iniciar o git na pasta de projeto
